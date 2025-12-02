@@ -62,16 +62,6 @@ Contains runnable examples showing how SACoin works.
 -   Mining correctness\
 -   Code quality
 
-## 🚀 Recommended Improvements
-
--   Add database\
--   Add mempool\
--   REST API\
--   Stronger hashing\
--   Deterministic VM\
--   Unit tests\
--   CLI tool
-
 ## Requirements
 
 - Python 3.9+
