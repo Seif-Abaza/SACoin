@@ -1,4 +1,4 @@
-# 📦 SACoin --- Full Repository Scan & Explanation
+# 📦 SACoin
 
 *A micro-blockchain for learning: Blocks, Mining (Proof of Work), Transactions, Rewards, NFTs (mint/transfer), Coin burning, and simple smart contracts. Requires Python 3.9+ and the ecdsa package. All demo/experiment files live in the Demo folder.*
 
